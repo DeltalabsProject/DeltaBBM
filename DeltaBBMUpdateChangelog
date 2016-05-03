@@ -1,0 +1,11 @@
+<AppUpdater>
+  <update>
+    <latestVersion>3.5.0</latestVersion>
+    <url>https://goo.gl/imXXlg</url>
+    <releaseNotes>
+- Update Base v2.13.1.13
+- AppUpdater
+- Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
