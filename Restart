@@ -1,0 +1,26 @@
+public static void restartBBM(Context context) {
+        Class class_;
+        AlarmManager alarmManager = (AlarmManager)context.getSystemService("alarm");
+        long l = System.currentTimeMillis() + (long)500;
+        try {
+            class_ = Class.forName((String)"com.bbm.ui.activities.MainActivity");
+        }
+        catch (ClassNotFoundException var4_5) {
+            NoClassDefFoundError noClassDefFoundError = new NoClassDefFoundError(var4_5.getMessage());
+            throw noClassDefFoundError;
+        }
+        Intent intent = new Intent(context, class_);
+        alarmManager.set(1, l, PendingIntent.getActivity((Context)context, (int)0, (Intent)intent, (int)0));
+        System.exit((int)2);
+    }
+    
+// menggunakan IntentCompat v4
+public static void restartBBM(){
+        PackageManager packageManager = Alaska.ctx.getPackageManager();
+        Intent intent = packageManager.getLaunchIntentForPackage(Alaska.ctx.getPackageName());
+        ComponentName componentName = intent.getComponent();
+        Intent mainIntent = IntentCompat.makeRestartActivityTask(componentName);
+        mainIntent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
+        Alaska.ctx.startActivity(mainIntent);
+        System.exit(0);
+    }
