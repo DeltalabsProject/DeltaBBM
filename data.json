@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"judul": "MI-CLOUD",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "BBM v3.3.0.16",
+			"modder": "Azhar Rivaldi",
+			"clone": "null",
+			"unclone": "http://bit.ly/2kwqP1R",
+			"img": "https://1.bp.blogspot.com/-2O6DyEnZ9yE/WK0Xy-uSDuI/AAAAAAAABfA/sfC_3n77qVMLfEho7K1lknppI-rdwgCMgCLcB/s640/MI-CLOUD.jpg"
+		},
+		{
 			"judul": "D-BASE 0.0.316",
 			"changelog": "Update Base v3.3.0.16",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
