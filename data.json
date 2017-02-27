@@ -1,6 +1,15 @@
 {
 	"data": [
 		{
+			"judul": "D-BASE 0.0.316",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "BBM v3.3.0.16",
+			"clone": "null",
+			"unclone": "http://bit.ly/D-BASE-00316",
+			"img": "https://4.bp.blogspot.com/-B57dOj0T8cg/WKSJOUkkKzI/AAAAAAAABeA/bgIuHEZ9kMsdhEWBuUZWuXDLN9l4yqE0wCLcB/s640/D-BASE.png"
+		},
+		{
 			"judul": "DELIGHT BBM v1.0.0",
 			"changelog": "Update Base v3.2.5.12\nUnlimited Color Theme\nLock Mode [Removed]",
 			"fitur": "Update Base v3.2.5.12\nUnlimited Color Theme\nLock Mode [Removed]",
