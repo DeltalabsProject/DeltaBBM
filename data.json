@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"judul": "BLACK",
+			"changelog": "Contact Grid Only\nBlack Settings\nChange any colour , icon , notification\Fix bugs",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Andi Abdi Hadi",
+			"clone": "http://www112.zippyshare.com/v/rCec63Rn/file.html",
+			"unclone": "http://www83.zippyshare.com/v/OcOXgcKz/file.html",
+			"img": "https://4.bp.blogspot.com/-UNxQe_MISxo/WLUCq_HB-VI/AAAAAAAABfo/HErFJnL-fhESGBcGY5jJ4QxqS2ayYP3wgCLcB/s640/BLACK.jpg"
+		},
+		{
 			"judul": "AR-v6",
 			"changelog": "Add New Nav Icon ( NAF-Chat , Delight , Twitter and BBM v8 )\nAdd New Notification Icon ( Ar , Imo , Instagram and Twitter )\nAdd New 6 Style Profile View\nChange BBM Input Panel",
 			"fitur": "Change Primary and Accent Color\nColoring Tab Layout, BBM Input Panel, Input Background\nChange Bubble Chat\nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
