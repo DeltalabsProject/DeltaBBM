@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"judul": "KRYPTONIGHT",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Ryan Chou",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-gat4kyD-89Y1oyLXk5TkJjRUE",
+			"img": "https://2.bp.blogspot.com/-fHL2j_yV1j4/WLV8caR2miI/AAAAAAAABhM/KK_K8ZegySgPXuP_rgEQ7wLILMO8sLYZwCLcB/s1600/KRYPTONIGHT.png"
+		},
+		{
 			"judul": "DARK WOOD THEMES V2.1.0",
 			"changelog": "Update Base v3.3.0.16",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
