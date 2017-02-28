@@ -1,5 +1,25 @@
 {
-	"data": [
+	"data": [		
+		{
+			"judul": "DARKOS",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Ryan Chou",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmWE5sNDd5QnRSYWc",
+			"img": "https://4.bp.blogspot.com/-eUoJmeJihDg/WLUGJPR0wgI/AAAAAAAABgI/09rgL1s71k8fzWRYVpf3nl9YMQDl7sERwCLcB/s640/DARKOS.jpg"
+		},
+		{
+			"judul": "TWITTER",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Richie Evan II",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B_GD8xnwy3wTeGxsN0VaNjFwODA",
+			"img": "https://2.bp.blogspot.com/-4TO5dUAizPw/WLUDyLZ9S4I/AAAAAAAABfw/oopUV-_oCTcn2Rh6C4nMdbgjIewCkUYdwCLcB/s640/TWITTER.jpg"
+		},
 		{
 			"judul": "BLACK",
 			"changelog": "Contact Grid Only\nBlack Settings\nChange any colour , icon , notification\nFix bugs",
