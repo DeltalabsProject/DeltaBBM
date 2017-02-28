@@ -1,5 +1,15 @@
 {
-	"data": [		
+	"data": [
+		{
+			"judul": "TRANGGA MOD - AUTO CHANGE DP",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Auto Change Display Picture\nFull Display Picture (DP No Crop)\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Trangga Ken",
+			"clone": "null",
+			"unclone": "http://bbmodder.com/owncloud/index.php/s/Gy0T1SpyPix1nc4/download",
+			"img": "https://1.bp.blogspot.com/-w0Pvn3wDGVk/WLUON1Uo_uI/AAAAAAAABgs/2fYDgc_MN5AlIIe_CzVr4BjlvyTc6vBDACLcB/s640/AUTO.jpg"
+		},
 		{
 			"judul": "DARKOS",
 			"changelog": "Update Base v3.3.0.16",
