@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"judul": "BLACK",
-			"changelog": "Contact Grid Only\nBlack Settings\nChange any colour , icon , notification\Fix bugs",
+			"changelog": "Contact Grid Only\nBlack Settings\nChange any colour , icon , notification\nFix bugs",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
 			"base": "v3.3.0.16",
 			"modder": "Andi Abdi Hadi",
