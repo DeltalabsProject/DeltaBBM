@@ -1,18 +1,8 @@
 {
 	"data": [
 		{
-			"judul": "AR-V6",
-			"changelog": "Add New Nav Icon ( NAF-Chat , Delight , Twitter and BBM v8 )\nAdd New Notification Icon ( Ar , Imo , Instagram and Twitter )\nAdd New 6 Style Profile View\nChange BBM Input Panel",
-			"fitur": "Change Primary and Accent Color\nColoring Tab Layout,BBM Input Panel,Input Background\nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
-			"base": "v3.3.0.16",
-			"modder": "Abdul Rahman",
-			"clone": "null",
-			"unclone": "https://drive.google.com/uc?export=download&id=0Bx2VS1miH6iRY3huSFo0cGxTX2M",
-			"img": "https://1.bp.blogspot.com/-iZqivCkr90I/WK0WXYIdKWI/AAAAAAAABes/8g3NnB-mEzEAsMuCT4hVpuF2UYU9hfpWwCLcB/s1600/AR-BBM.jpg"
-		},
-		{
 			"judul": "DARK NAVY",
-			"changelog": "darkNAVY Settings",
+			"changelog": "darkNAVY Settings\n",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
 			"base": "v3.3.0.16",
 			"modder": "Andi Abdi Hadi",
