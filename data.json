@@ -1,6 +1,16 @@
 {
 	"data": [
 		{
+			"judul": "JUVE - HIGUAIN",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Abiem Prasetya",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0BwcYlng030ANRTlsbl9lOWwxSjA",
+			"img": "https://4.bp.blogspot.com/-zz3g7JFJe5c/WLZTxotnGmI/AAAAAAAABho/xpkk2qW4imcqmdkTt7Uz-G_zSfZP-IHMwCLcB/s640/HGN_JUVE3.jpg"
+		},
+		{
 			"judul": "KRYPTONIGHT",
 			"changelog": "Update Base v3.3.0.16",
 			"fitur": "Full Display Picture (DP No Crop)\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
